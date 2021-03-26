@@ -5,4 +5,6 @@
 
 # This is a free to use plugin
 
-#Git repository:
+#Git repository: https://github.com/liarttv/obs-audio-script.git
+
+print("Hello there!")
